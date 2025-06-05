@@ -1,4 +1,4 @@
 ##To compile:
 gfortran RKHS.f90 O3-1APP-PES.f90 program.f90
 
-The PES file is O3-1APP-PES.f90. Kernels are stored in Data/.
+The PES file is O3-1APP-PES.f90. Kernels are stored in data/.
