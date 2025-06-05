@@ -1,2 +1,2 @@
 # NN-STD-O3
-NN-STD model for O3
+The PES and NN-STD model for O3.
