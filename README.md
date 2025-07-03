@@ -1,6 +1,6 @@
 # NN-STD-O3
 
-This is the repository for the manuscript "High-Energy Reaction Dynamics of $O_{3}$" (submitted to the Journal of Chemical Physics).
+This is the repository for the manuscript "High-Energy Reaction Dynamics of $\mathrm{O}_{3}$" (submitted to the Journal of Chemical Physics).
 
 The PES files are within the folder "O3-1AP-PES". 
 
